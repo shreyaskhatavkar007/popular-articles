@@ -22,6 +22,8 @@ Run Cypress: npm run test:cypress
 
 To build on local: npm run build
 
+Sample Key placed in .env with name NEXT_PUBLIC_API_KEY
+
 ## App Information
 
 Main Page (./)
